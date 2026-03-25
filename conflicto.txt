@@ -1,2 +1,3 @@
+Contenido desde rama-conflicto
 Contenido desde miRama1
 Contenido diferente desde rama-conflicto
